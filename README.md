@@ -1,4 +1,4 @@
-# Foodgram
+# Food Recipes App
 
 
 
